@@ -1,1 +1,3 @@
 Repo for my first React Native app. Still in the midst of learning...
+
+This is a simple ToDo App
